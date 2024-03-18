@@ -128,11 +128,6 @@
               "type": "doc",
               "id": "using-openapi/openapi-demo/add-a-new-pet-to-the-store",
               "label": "Add a new pet to the store"
-            },
-            {
-              "type": "doc",
-              "id": "using-openapi/openapi-demo/deletes-a-pet",
-              "label": "Deletes a pet"
             }
           ]
         }
